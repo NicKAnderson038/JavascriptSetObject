@@ -1,2 +1,0 @@
-# JavascriptSetObject
-Created with CodeSandbox
