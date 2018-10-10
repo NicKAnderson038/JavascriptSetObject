@@ -30,7 +30,7 @@ const D = [1, 7, 4, -9, 4, 6, 2, 5, 0, 8, 3] // 1
  * using 'i' as the counter & representing the value in the set.
  * checking by counting up if that number exsists. 
  * the number may still exsist, but if it's not the next one on the count, then the function will fail.
- * Useful for items in an array, objects to a lesser extense.
+ * Useful for items in an array, objects to a lessor extent.
 */
 
 const result = solution(D)
